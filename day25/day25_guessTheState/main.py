@@ -2,8 +2,6 @@ import turtle
 import pandas as pd
 from gameboi import Gameboi
 
-# TODO - Otherwise write the answer in the map
-
 TOTAL_STATES = 51
 
 
